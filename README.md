@@ -1,1 +1,1 @@
-# terraform-ent-sample
+# Sample Terraform
